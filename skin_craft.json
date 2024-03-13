@@ -115,16 +115,25 @@
       "addR_url": "https://github.com",
       "view_add": "https://mcpeland.io/uploads/posts/2023-11/medium/goji-the-amazing-digital-circus-addon_7.png",
       "des_add" : "file:///android_asset/addon1.html"
+    },
+    {
+      "id": 2,
+      "name_add": "The Amazing Digital Circus",
+      "add_url": "https://github.com/taqwim36/Circus-MCPE/raw/main/The%20Amazing%20Digital%20Circus.mcaddon",
+      "addB_url": "https://github.com",
+      "addR_url": "https://github.com",
+      "view_add": "https://api.mcpedl.com/storage/submissions/196534/images/the-amazing-digital-circus-addon_11.png",
+      "des_add" : "file:///android_asset/install_add.html"
     }
   ],
   "Maps":
   [
     {
       "id": 1,
-      "name_map": "Poppy Map Playtime",
-      "view_map": "https://api.mcpedl.com/storage/submissions/130851/images/poppy-playtime_7.png",
+      "name_map": "The Clown Horror Map",
+      "view_map": "https://api.mcpedl.com/storage/submissions/186335/images/the-clown-horror-map_3.jpeg",
       "map_url": "https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/maps1.mcworld",
-      "des_map": "file:///android_asset/maps1.html"
+      "des_map": "file:///android_asset/install_maps.html"
     }
   ]
 }
